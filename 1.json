@@ -6,7 +6,6 @@
     "type": "pistol",
     "origins": {
       "http": "https://github.com/cryptocodyram/gaming-assets/blob/main/.github/assets/icons/Pistol_Pickup_01.png",
-      "//ipfs": "",
       "3dModel": {
         "png1": "https://github.com/cryptocodyram/gaming-assets/blob/main/.github/assets/modals/Pistol1/Gun_Albedo.png",
         "png2": "https://github.com/cryptocodyram/gaming-assets/blob/main/.github/assets/modals/Pistol1/Gun_Mettalic.png",
