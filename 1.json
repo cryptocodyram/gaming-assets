@@ -5,7 +5,7 @@
   "properties": {
     "type": "pistol",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/.github/assets/icons/Pistol_Pickup_01.png",
+      "http": "https://github.com/cryptocodyram/gaming-assets/blob/main/.github/assets/icons/Pistol_Pickup_01.png",
       "//ipfs": "ipfs://bafybeieh4gpvatp32iqaacs6xqxqitla4drrkyyzq6dshqqsilkk3fqmti/blog/post/2021-11-30-hello-world-nft-storage/"
     },
     "authors": [
