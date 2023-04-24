@@ -5,7 +5,7 @@
   "properties": {
     "type": "pistol",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/icons/Pistol_Pickup_01.png",
+      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1 [PickUp].fbx",
       "3dModel": {
         "png1": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Albedo.png",
         "png2": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Mettalic.png",
