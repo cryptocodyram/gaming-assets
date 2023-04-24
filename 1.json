@@ -1,11 +1,11 @@
 {
   "name": "Hypermove gaming pistol",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1[PickUp].fbx",
+  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/pistol1.glb",
   "properties": {
     "type": "pistol",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1[PickUp].fbx",
+      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/pistol1.glb",
       "3dModel": {
         "png1": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Albedo.png",
         "png2": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Mettalic.png",
