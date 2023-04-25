@@ -804,15 +804,15 @@
   ],
   "images": [
     {
-      "uri": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Normals.jpg",
+      "uri": "Gun_Normals.jpg",
       "name": "Gun_Normals"
     },
     {
-      "uri": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Albedo.png",
+      "uri": "Gun_Albedo.png",
       "name": "Gun_Albedo"
     },
     {
-      "uri": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/.github/assets/modals/Pistol1/Gun_Mettalic.png",
+      "uri": "Gun_Mettalic.png",
       "name": "Gun_Mettalic"
     }
   ],
