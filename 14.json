@@ -1,0 +1,20 @@
+{
+  "name": "Hypermove gaming pistol",
+  "description": "The metaverse is here. Now pick your pistol",
+  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/Pistol_Pickup_01.png",
+  "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/Pistol_Pickup_01.glb",
+  "properties": {
+    "type": "pistol",
+    "origins": {
+      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/Pistol_Pickup_01.png"
+    },
+    "authors": [
+      {
+        "name": "Ram Verma"
+      }
+    ],
+    "content": {
+      "text/markdown": ""
+    }
+  }
+}
