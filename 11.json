@@ -1,12 +1,12 @@
 {
-  "name": "Hypermove gaming pistol",
+  "name": "Rare 42 Gun",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/Pistol_Pickup_01.png",
-  "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/Pistol_Pickup_01.glb",
+  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/42_rare_gun.png",
+  "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/42_rare_gun.glb",
   "properties": {
     "type": "pistol",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/Pistol_Pickup_01.png"
+      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/42_rare_gun.png"
     },
     "authors": [
       {
