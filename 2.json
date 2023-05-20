@@ -4,7 +4,10 @@
   "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/39_rare_gun.png",
   "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/39_rare_gun.glb",
   "properties": {
-    "type": "pistol",
+    "type": [
+      "pistol",
+      "collectible"
+    ],
     "origins": {
       "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/39_rare_gun.png"
     },
