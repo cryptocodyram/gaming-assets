@@ -1,12 +1,12 @@
 {
   "name": "Uncommon 41 Gun",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/41_uncommon_gun.png",
+  "image": "https://d15x3nwgjcy1f5.cloudfront.net/41_uncommon_gun.png",
   "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/41_uncommon_gun.glb",
   "properties": {
     "type": "collectible",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/41_uncommon_gun.png"
+      "http": "https://d15x3nwgjcy1f5.cloudfront.net/41_uncommon_gun.png"
     },
     "authors": [
       {

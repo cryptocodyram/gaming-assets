@@ -1,12 +1,12 @@
 {
   "name": "Speed Card",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/speed_card.png",
+  "image": "https://d15x3nwgjcy1f5.cloudfront.net/speed_card.png",
   "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/speed_card.glb",
   "properties": {
     "type": "consumables",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/speed_card.png"
+      "http": "https://d15x3nwgjcy1f5.cloudfront.net/speed_card.png"
     },
     "authors": [
       {

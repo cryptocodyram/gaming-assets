@@ -1,12 +1,12 @@
 {
   "name": "Common 40 Gun",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/40_common_gun.png",
+  "image": "https://d15x3nwgjcy1f5.cloudfront.net/40_common_gun.png",
   "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/40_common_gun.glb",
   "properties": {
     "type": "collectible",
     "origins": {
-      "http": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/icons/40_common_gun.png"
+      "http": "https://d15x3nwgjcy1f5.cloudfront.net/40_common_gun.png"
     },
     "authors": [
       {
