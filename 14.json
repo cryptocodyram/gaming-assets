@@ -1,12 +1,12 @@
 {
   "name": "Rare 42 Gun",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://d15x3nwgjcy1f5.cloudfront.net/43_rare_gun.png",
-  "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/43_rare_gun.glb",
+  "image": "https://d15x3nwgjcy1f5.cloudfront.net/nft-images-sm/43_rare_gun.png",
+  "animation_url": "https://d15x3nwgjcy1f5.cloudfront.net/modals/43_rare_gun.glb",
   "properties": {
     "type": "collectible",
     "origins": {
-      "http": "https://d15x3nwgjcy1f5.cloudfront.net/43_rare_gun.png"
+      "http": "https://d15x3nwgjcy1f5.cloudfront.net/nft-images-sm/43_rare_gun.png"
     },
     "authors": [
       {

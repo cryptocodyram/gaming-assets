@@ -1,12 +1,12 @@
 {
   "name": "Freeze Card",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://d15x3nwgjcy1f5.cloudfront.net/freeze_card.png",
-  "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/freeze_card.glb",
+  "image": "https://d15x3nwgjcy1f5.cloudfront.net/nft-images-sm/freeze_card.png",
+  "animation_url": "https://d15x3nwgjcy1f5.cloudfront.net/modals/freeze_card.glb",
   "properties": {
     "type": "consumables",
     "origins": {
-      "http": "https://d15x3nwgjcy1f5.cloudfront.net/freeze_card.png"
+      "http": "https://d15x3nwgjcy1f5.cloudfront.net/nft-images-sm/freeze_card.png"
     },
     "authors": [
       {

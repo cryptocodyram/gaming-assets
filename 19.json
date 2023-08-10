@@ -1,12 +1,12 @@
 {
   "name": "Invisible Card",
   "description": "The metaverse is here. Now pick your pistol",
-  "image": "https://d15x3nwgjcy1f5.cloudfront.net/invisible_card.png",
-  "animation_url": "https://raw.githubusercontent.com/cryptocodyram/gaming-assets/main/assets/modals/invisible_card.glb",
+  "image": "https://d15x3nwgjcy1f5.cloudfront.net/nft-images-sm/invisible_card.png",
+  "animation_url": "https://d15x3nwgjcy1f5.cloudfront.net/modals/invisible_card.glb",
   "properties": {
     "type": "consumables",
     "origins": {
-      "http": "https://d15x3nwgjcy1f5.cloudfront.net/invisible_card.png"
+      "http": "https://d15x3nwgjcy1f5.cloudfront.net/nft-images-sm/invisible_card.png"
     },
     "authors": [
       {
